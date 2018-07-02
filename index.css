@@ -17,5 +17,5 @@ body {
   border: 1px solid black;
  }
 .bigItem {
-  grid-column: 2 / 4;
+  grid-column: 1 / 4;
 }
