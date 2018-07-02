@@ -14,5 +14,5 @@ body {
 .grid-item {
   background-color: grey;
   border: 1px solid black;
-  grid-gap: 5px
+  grid-gap: 5px;
 }
